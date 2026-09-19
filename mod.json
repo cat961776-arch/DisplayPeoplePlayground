@@ -1,0 +1,17 @@
+{
+  "Name": "Display Text Signal Changer",
+  "Author": "cat961776 :D",
+  "Description": "Makes Signal For Text display to display texts 1 to 1, Please support me, im alone on this project",
+  "ModVersion": "1.0",
+  "GameVersion": "1.21+",
+  "ThumbnailPath": "sprites/placeholder.png",
+  "EntryPoint": "Mod.Mod",
+  "Tags": [],
+  "Scripts": [
+    "mod.cs"
+  ],
+  "Active": true,
+  "UGCIdentity": null,
+  "CreatorUGCIdentity": "0",
+  "AssemblyName": null
+}
